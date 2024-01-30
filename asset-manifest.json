@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.306846d7.css",
+    "main.js": "/static/js/main.bf6facc2.js",
+    "static/media/gun.png": "/static/media/gun.34fff3dc629798537d60.png",
+    "index.html": "/index.html",
+    "main.306846d7.css.map": "/static/css/main.306846d7.css.map",
+    "main.bf6facc2.js.map": "/static/js/main.bf6facc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306846d7.css",
+    "static/js/main.bf6facc2.js"
+  ]
+}
